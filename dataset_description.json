@@ -1,5 +1,8 @@
 {
 	"Name":"Prestimulus Exp1",
 	"BIDSVersion":"1.0.2",
-	"Authors": "Noga Cohen, Aya Ben-Yakov"
+	"Authors": [
+		"Noga Cohen", 
+		"Aya Ben-Yakov"
+	]
 }
