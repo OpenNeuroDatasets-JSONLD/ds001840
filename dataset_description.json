@@ -1,10 +1,5 @@
 {
-    "Name": "Prestimulus Exp1",
-    "BIDSVersion": "1.0.2",
-    "ReferencesAndLinks": [],
-    "License": "CC0",
-    "Authors": [
-        "Noga Cohen",
-        "Aya Ben-Yakov"
-    ]
+	"Name":"Prestimulus Exp1",
+	"BIDSVersion":"1.0.2",
+	"Authors": "Noga Cohen, Aya Ben-Yakov"
 }
