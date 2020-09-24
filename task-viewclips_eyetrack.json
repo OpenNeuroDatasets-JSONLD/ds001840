@@ -3,6 +3,6 @@
 	"FileFormat": ".edf",
 	"StartMessage": "DISPLAY_INSTRUCTION",
 	"EndMessage": "Frame to be displayed 1",
-	"EventIdentifier": "instructionse",
+	"EventIdentifier": "instructionse"
 }
 
